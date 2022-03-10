@@ -2,9 +2,8 @@
 
 /**
  * main - prints the various sizes
- * Returns: 0 if exited properly, non-zero if not
+ * Return: 0 if exited properly, non-zero if not
  */
-
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
